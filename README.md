@@ -1,33 +1,16 @@
-# React + TypeScript + Vite
+# Shoes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Shoes App is an application that allows users to explore and filter various shoe products. The project aims to enhance the shopping experience by providing a modern and user-friendly interface.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: A library for building user interfaces.
+- **React Query**: Manages server state and caches data.
+- **JSON Server**: Quickly sets up a mock REST API.
+- **Tailwind CSS**: Provides customizable utility-first CSS classes.
+- **TypeScript**: A typed superset of JavaScript for improved code quality.
+- **Vite**: A fast and modern development server.
+- **xss**: Protects against Cross-Site Scripting (XSS) attacks.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# shoes-app
-# shoes-app
-# shoes-app
+# Screen Gif: 
+![shoes](https://github.com/user-attachments/assets/179d1b73-b780-42c3-9d7b-907c3406e282)
