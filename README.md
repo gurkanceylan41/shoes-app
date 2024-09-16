@@ -13,4 +13,4 @@ Shoes App is an application that allows users to explore and filter various shoe
 - **xss**: Protects against Cross-Site Scripting (XSS) attacks.
 
 # Screen Gif: 
-![shoes](https://github.com/user-attachments/assets/179d1b73-b780-42c3-9d7b-907c3406e282)
+![shoes](https://github.com/user-attachments/assets/61e6efa2-ac76-4ff4-ada5-aa03ef7206c9)
